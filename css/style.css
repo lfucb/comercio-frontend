@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav-logo{
+    width: 35px;
+    height: 35px;
+}
+.nav-logo2{
+    width: 35px;
+    height: 35px;
+}
+.login{
+    text-decoration: none;
+}
+.check{
+    margin-right:50px;
+}
